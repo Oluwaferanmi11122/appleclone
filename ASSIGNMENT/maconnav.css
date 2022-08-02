@@ -1,0 +1,874 @@
+html,body{
+    margin: none;
+    padding: none;
+}
+
+/* .macair{
+    padding-top: 50px;
+} */
+.mac{
+    background-color: #f5f5f7;
+    box-shadow: 0px 0px 30px whitesmoke;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 15px;
+}
+.macbook{
+    width: 100%;
+    height: 600px;
+    background-color: #ffffff;
+    /* box-shadow: 0px 0px 20px; */
+    display: block;
+    align-content: center;
+}
+.macbook .book{
+    margin-left: 400px;
+    padding-top: 20px;
+}
+.behindmac{
+    width: 100%;
+    height: 600px;
+    background-image: url(../ASSIGNMENT/skysound-apple-behind\ the\ mac.jpeg);
+    /* background-color: black; */
+    margin-top: 5%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.behindmac .hearforce{
+    width:0%;
+    height: 600px;
+    background-color: black;
+
+}
+.learn{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.learn .behind{
+    margin-left: 30px;
+}
+.learn .hear{
+    font-size: 320%;
+}
+/* .macbook2{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    box-shadow: 0px 0px 20px white;
+    display: block;
+    align-content: center;
+    color: white;
+}
+.macbook2 .book2{
+        margin-left: 400px;
+        padding-top: 20px;
+} */
+.macbook2{
+    background-color: black !important;
+}
+.which{
+    font-size: 300%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shopcollege{
+    width: 100%;
+    height: 550px;
+    background-color: #f5f5f7;
+    /* box-shadow: 0px 0px 20px black; */
+    margin-top: 10%;
+    display: flex;
+    /* flex-direction: column; */
+
+}
+.shopcollege .edudiscount{
+    margin-left: 10%;
+    margin-top: 15%;
+}
+.shopcollege .imgdiscount{
+    margin-left: 20%;
+    margin-top: 15%;
+}
+.accessoriestrade{
+    width: 100%;
+    height: 800px;
+    background-color: black;
+    /* box-shadow: 0px 0px 10px black; */
+    display: flex;
+    justify-content: space-around;
+}
+.accessoriestrade .accessories{
+    width: 45%;
+    height: 800px;
+    background-color: #f5f5f7;
+    box-shadow: 0px 0px 10px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.accessoriestrade .appletrade{
+    width: 45%;
+    height: 800px;
+    background-color: #f5f5f7;
+    box-shadow: 0px 0px 10px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.accessories .exploremac{
+    margin-top: 10%;
+}
+.accessoriestrade .exploremac2{
+    margin-top: 10%;
+}
+.delivery{
+    width: 100%;
+    height: 700px;
+    background-color: white;
+    /* box-shadow: 0px 0px 10px black; */
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+.freedelivery{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.gethelp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+}
+.paymonthly{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.paymonthly .col-md-12{
+    font-size: 50%;
+}
+/* .mac{
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    margin-top: 5%;
+} */
+.incredible{
+    width: 40% !important;
+    height: 500px;
+    background-color: #f5f5f7;
+    color: black;
+    /* box-shadow: 0px 0px 10px black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.continuity{
+    width: 40% !important;
+    height: 500px;
+    background-color: #f5f5f7;
+    /* box-shadow: 0px 0px 10px black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.macventura{
+    width: 100%;
+    height: 600px;
+    background-color: #f5f5f7;
+    box-shadow: 0px 0px 10px black;
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.macventura .macos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.livesessions{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    color: white;
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.livesessions .basics{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.appleone{
+    width: 100%;
+    height: 700px;
+    background-color: #f5f5f7;
+    box-shadow: 0px 0px 10px black;
+    color: black;
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.appleone .bundle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+}
+.tvapple{
+    width: 40%;
+    height: 700px;
+    background-color: black;
+    color: white;
+    /* box-shadow: 0px 0px 10px black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.applepay{
+    width: 40% !important;
+    height: 700px;
+    background-color: #f5f5f7;
+    /* box-shadow: 0px 0px 10px black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.applearcade{
+    width: 40%;
+    height: 700px;
+    background-color: #f5f5f7;
+    /* box-shadow: 0px 0px 10px black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.applenews{
+    width: 40%;
+    height: 700px;
+    background-color: #ed3a53;
+    /* box-shadow: 0px 0px 10px black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.giftcard{
+    width: 100%;
+    height: 700px;
+    background-color: white;
+    /* box-shadow: 0px 0px 10px black; */
+    color: black;
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.giftcard .applecard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.applework{
+    width: 100%;
+    height: 650px;
+    /* background-color: black; */
+    background-image: url(../ASSIGNMENT/business\ apple.jpeg);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+.applework h5 a{
+    color: white;
+}
+.appledu{
+    width: 100%;
+    height: 650px;
+    /* background-color: black; */
+    background-image: url(../ASSIGNMENT/appledu.jpeg);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+.appledu h5 a{
+    color: white;
+}
+.footer{
+    width: 100%;
+    height: 1500px;
+    background-color: #F5F5F7;
+    color: grey;
+    font-size: 11px;
+    font-weight: 350;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.educationprice{
+    width: 100%;
+    height: 1500px;
+    background-color: #F5F5F7;
+    font-size: 11px;
+    font-weight: 350;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.footer2{
+    width: 100%;
+    height: 900px;
+    background-color: #F5F5F7;
+    color: grey;
+    font-size: 11px;
+    font-weight: 350;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+}
+
+@media(max-width: 1306px){
+    .giftcard .applecard h3{
+        font-size: 110%;
+    }
+}
+@media(max-width: 1110px){
+    .edudiscount h1{
+        font-size: 200%;
+    }
+    .accessories .img{
+      height: 400px;
+    }
+  
+}
+@media(max-width: 1136px){
+    .giftcard img{
+       width: 700px !important;
+
+    }
+}
+@media(max-width: 1068px){
+    .tv-plus .river-wrapper{
+        padding-top: 39px;
+    }
+}
+
+@media(max-width: 992px){
+    .macbook,.macbook2{
+        width: 100% !important;
+        padding: 0 15% 0 !important; 
+        justify-content: center;
+    }
+    .macbook .book, .macbook2{
+       margin-left: 0px; 
+    }
+    .applepay img{
+        width: 350px !important;
+    }
+    
+}
+@media(max-width: 983px){
+    .giftcard .applecard h3{
+        font-size: 90%;
+    }
+}
+@media(max-width: 970px){
+    .livesessions .basics h3{
+        font-size: 100% !important;
+    }
+    .livesessions .basics h1{
+        font-size: 150% !important;
+    }
+    .appleone img{
+        width: 400px !important;
+    }
+    .appleone .bundle h1{
+        font-size: 200% !important;
+    }
+
+}
+@media(max-width: 986px){
+    .edudiscount h1{
+        font-size: 150%;
+    }
+}
+@media(max-width: 964px){
+    .macventura img{
+        width: 500px !important;
+    }
+}
+@media(max-width: 937px){
+    .giftcard img{
+        width: 500px !important;
+    }
+}
+@media(max-width: 917px){
+    .applearcade h3{
+        font-size: 120%;
+    }
+}
+@media(max-width: 892px){
+    .exploremac2 p{
+        font-size: 80%;
+    }
+    .applenews img{
+        width: 350px;
+    }
+}
+@media(max-width: 880px){
+    .appleone .bundle h3{
+        font-size: 120% !important;
+    }
+}
+@media(max-width: 859px){
+    .edudiscount h1{
+        font-size: 130%;
+    }
+    .edudiscount h3{
+        font-size: 100%;
+    }
+}
+@media(max-width: 833px){
+    .tvapple h3{
+        font-size: 110%;
+    }
+    .applepay h5{
+        font-size: 100%;
+    }
+}
+@media(max-width: 812px){
+    .livesessions{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+@media(max-width: 804px){
+    .exploremac2 h1{
+        font-size: 150%;
+        margin-left: 25% !important;
+    }
+   
+}
+@media(max-width: 767px){
+    .macbook2 h1{
+        font-size: 160% !important;
+        margin-left: 20%;
+    }
+    .macbook2 .pro{
+        font-size: 130% !important;
+        margin-left: 25% !important;
+    }
+    .which{
+        font-size: 200%;
+    }
+    .macventura{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .macventura img{
+        margin-top: 2%;
+        width: 600px !important;
+        /* display: flex;
+        align-items: center;
+        justify-content: center; */
+    }
+    .footer{
+        height: 2000px;
+    }
+  
+}
+@media(max-width: 753px){
+    .appleone{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .appleone .bundle{
+        margin-top: 10%;
+    }
+    .appleone .bundle .tags{
+        margin: 0px !important;
+    }
+    .footer2 .forbusiness{
+        margin-top: 45% !important;
+    }
+    .footer2 .applevalues{
+        margin-top: 25% !important;
+    }
+    .footer2 .services{
+        margin-top: 20% !important;
+    }
+    .footer2 .applestore{
+        margin-top: 5% !important;
+    }
+}
+@media(max-width: 746px){
+    .giftcard{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .giftcard .applecard{
+        margin-top: -10%;
+    }
+    .giftcard img{
+        margin-top: 10% !important;
+        margin-left: 0px !important;
+        width: 600px !important;
+    }
+}
+@media(max-width: 738px){
+    .makesmac{
+        font-size: 70%;
+    }
+}
+@media(max-width: 728px){
+    .shopcollege .imgdiscount{
+        margin-left: 0px;
+    }
+    .exploremac2 p{
+        font-size: 65%;
+    }
+}
+@media(max-width: 649px){
+    .giftcard img{
+        width: 500px !important;
+        margin-left: -25px !important;
+    }
+    .giftcard{
+        height: 600px;
+    }
+    .footer2{
+        font-size: 7px;
+        font-weight: 400;
+        height: 800px;
+    }
+    .footer2 .shoplearn{
+        margin-left: -5%;
+    }
+    .footer2 .services{
+        margin-left: -7%;
+    }
+    .footer2 .applevalues{
+        margin-left: -9%;
+    }
+    .footer2 .applestore{
+        margin-left: -9%;
+    }
+    .footer2 .forbusiness{
+        margin-left: -9%;
+    }
+}
+@media(max-width: 641px){
+    .exploremac2 a{
+        margin-left: -40px !important;
+    }
+    .exploremac2 h3{
+        margin-left: 60px !important;
+    }
+    .exploremac2 h1{
+        margin-left: 40px !important;
+    }
+}
+@media(max-width: 604px){
+    .macventura img{
+        width: 400px !important;
+    }
+    .appledu .getpower{
+        font-size: 100% !important;
+    }
+}
+@media(max-width: 574px){
+   .shopcollege .edudiscount{
+       margin-left: 0px;
+   }
+   .getmac{
+       font-size: 50% !important;
+   }
+   .livesessions img{
+       width: 90% !important;
+   }
+}
+@media(max-width: 543px){
+    .footer{
+        height: 2500px;
+    }
+}
+@media(max-width: 527px){
+    .exploremac2 h1{
+        font-size: 85%;
+    }
+    .exploremac2 h3{
+        font-size: 90%;
+    }
+    .exploremac2 p{
+        font-size: 53%;
+    }
+    .giftcard img{
+        width: 400px !important;
+    }
+}
+@media(max-width: 522px){
+    .makesmac{
+        font-size: 50%;
+    }
+}
+@media(max-width: 504px){
+    .book h1{
+        font-size: 50px !important;
+    }
+    .book img{
+        width: 100%
+    }
+    .shopcollege{
+        display: block;
+    }
+    .shopcollege .edudiscount{
+        text-align: center;
+    }
+    .shopcollege .imgdiscount{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .applearcade img{
+        width: 350px;
+    }
+    .applework .getpower{
+        font-size: 100%;
+    }
+}
+@media(max-width: 478px){
+    .accessories  h1{
+        font-size: 100% !important;
+        margin-left: 25% !important;
+    }
+    .accessoriestrade{
+        height: 1650px !important;
+    }
+    .appletrade{
+        margin-top: 850px !important;
+        width: 100% !important;
+        margin-left: -300px;
+        height: 600px !important;
+    }
+    .accessories{
+        width: 100% !important;
+        margin-left: -15px;
+        height: 450px !important;
+    }
+    .accessories img{
+        width: 70%;
+    }
+    .footer2{
+        height: 500px;
+    }
+}
+@media(max-width: 457px){
+    .compare h4{
+        font-size: 100%;
+    }
+}
+@media(max-width: 455px){
+    .macbook2 img{
+        width: 98%;
+        max-width: 380px;
+    }
+}
+@media(max-width: 447px){
+    .footer{
+        height: 3000px;
+    }
+}
+@media(max-width: 438px){
+    .book h1{
+        font-size: 200% !important;
+        text-align: center;
+    }
+    .book h4{
+        font-size: 130% !important;
+        text-align: center;
+        margin-left: -3% !important;
+    }
+    .book img{
+        margin-left: 5% !important;
+    }
+    .book p,.macbook2 p{
+        margin-left: 30% !important;
+    }
+    .book .button .rounded-pill, .macbook2 .rounded-pill{
+        /* width: 100%; */
+        margin-left: 0px !important;
+    }
+}
+@media(max-width: 426px){
+    .giftcard{
+        height: 500px;
+    }
+    .giftcard img{
+        width: 290px !important;
+        margin-top: 20% !important;
+    }
+    .applework .getpower{
+        font-size: 70%;
+    }
+}
+@media(max-width: 411px){
+    .which{
+        font-size: 150%;
+    }
+    .shopcollege .imgdiscount{
+        width: 300px;
+    }
+    .appleone img{
+        width: 80% !important;
+        margin-left: 10%;
+    }
+}
+@media(max-width :398px){
+    .macventura img{
+        width: 300px !important;
+        /* margin-left: 10px !important; */
+    }
+    .appledu h1{
+        font-size: 170% !important;
+    }
+    .appledu .getpower{
+        font-size: 55% !important;
+    }
+}
+@media(max-width :391px){
+    .footer{
+        height: 3400px;
+    }
+    /* .footer2{
+        font-size: 6px;
+    } */
+}
+@media(max-width :380px){
+    .applenews h5{
+        font-size: 100%;
+    }
+}
+@media(max-width :374px){
+    .learn .hear{
+        font-size: 120%;
+    }
+    .learn .behind{
+        margin-left: -2%;
+    }
+    .exploremac2 p{
+        font-size: 45%;
+    }
+    .makesmac{
+        font-size: 40%;
+    }
+    .footer2{
+        font-size: 40%;
+        font-weight: 270;
+    }
+}
+@media(max-width: 358px){
+    .macbook2 h1{
+        font-size: 140% !important;
+    }
+    .macbook2 .button{
+        text-align: center !important;
+    }
+    .incredible h1{
+        font-size: 150%;
+    }
+    .continuity h1{
+        font-size: 150%;
+    }
+    .applepay img{
+        width: 300px !important;
+    }
+    .applepay h5{
+        font-size: 80%;
+    }
+    .applearcade img{
+        width: 300px;
+    }
+}
+@media(max-width :350px){
+    .applenews img{
+        width: 300px;
+    }
+    .appledu .learnedu{
+        font-size: 100%;
+    }
+    .footer{
+        height: 3700px;
+    }
+}
+@media(max-width :333px){
+    .compare h4{
+        font-size: 90%;
+    }
+    .footer2 .applevalues{
+        margin-left: -15%;
+    }
+    .footer2 .forbusiness{
+        margin-left: -15%;
+    }
+    .footer2 .applestore{
+        margin-left: -15% !important;
+    }
+}
+@media(max-width :329px){
+    .footer{
+        height: 4000px;
+    }
+    .footer2 .applevalues{
+        margin-left: -20% !important;
+    }
+    .footer2 .services, .applestore,.forbusiness{
+        margin-left: -15% !important;
+    }
+}
+
+
+
