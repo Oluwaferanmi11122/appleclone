@@ -66,9 +66,9 @@ body{
 .supercharged{
     margin-left: 200px;
 }
-.card3 img{
+/* .card3 img{
     /* margin-left: 200px; */
-}
+ */
 
 .card-2{
     margin-top: 230px !important;
@@ -208,14 +208,17 @@ body{
     }
  }
  @media(max-width: 705px){
-    .card3 img{
+    .imgcard{
         margin-left: -10% !important;
         justify-content: center !important;
     }
 }
 @media(max-width: 693px){
-    .card3 img{
-        margin-left: 20% !important;
+    .imgcard{
+        margin-left: 3% !important;
+    }
+    .card3{
+        margin-left: -100px !important;
     }
 }
 @media(max-width: 576px){
