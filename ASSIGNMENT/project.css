@@ -199,6 +199,20 @@ body{
         margin-left: -5px;
     }
 }
+@media(max-width: 740px){
+    .card{
+     width: 100%;
+    } 
+    .macair{
+        margin-left: -200px;
+    }
+ }
+ @media(max-width: 705px){
+    .card3 img{
+        margin-left: -10% !important;
+        justify-content: center !important;
+    }
+}
 @media(max-width: 693px){
     .card3 img{
         margin-left: 20% !important;
@@ -222,11 +236,4 @@ body{
 }    
     
 
-@media(max-width: 740px){
-    .card{
-     width: 100%;
-    } 
-    .macair{
-        margin-left: -200px;
-    }
- }
+
